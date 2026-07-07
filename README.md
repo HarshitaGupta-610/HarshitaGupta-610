@@ -70,27 +70,7 @@ B.Tech CSE @ **IGDTUW'28** | Builder | Software Engineer | AI Enthusiast | Turni
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HarshitaGupta-610&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitaGupta-610&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=HarshitaGupta-610&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🌐 connect with me
 
