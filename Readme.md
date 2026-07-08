@@ -9,8 +9,7 @@ B.Tech CSE @ **IGDTUW'28** | Builder | Software Engineer | AI Enthusiast | Turni
 - 🎓 B.Tech Computer Science student at IGDTUW
 - 💻 Passionate about Software Engineering, AI and Full Stack Development
 - 🧠 Interested in Machine Learning, LLMs and AI-powered applications
-- 🌱 Currently strengthening DSA, Backend Development and System Design
-- 🏆 McKinsey Forward Graduate • Spark Fellowship 2026 • Millennium Fellowship Round 2 Candidate
+- 🌱 Currently strengthening DSA and ML
 - 💙 I enjoy building products that solve real-world problems through technology
 
 ---
