@@ -61,10 +61,8 @@ B.Tech CSE @ **IGDTUW'28** | Builder | Software Engineer | AI Enthusiast | Turni
 
 ```
 📄 McKinsey Forward Graduate                     | Successfully completed McKinsey Forward Program
-🏆 Spark Fellowship 2026                         | Selected Fellow
-🌍 Millennium Fellowship                        | Round 2 Candidate
-💻 Software Engineering & AI                     | Building impactful real-world projects
-🧩 DSA                                           | Consistently solving problems on LeetCode
+🏆 Amazon MLSS 2026                              | Selected among top 3000 fellows from India.
+
 ```
 
 ---
