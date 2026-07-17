@@ -6,7 +6,7 @@ B.Tech CSE @ **IGDTUW'28** | Builder | Software Engineer | AI Enthusiast | Turni
 
 # 🚀 about me
 
-- 🎓 B.Tech Computer Science student at IGDTUW
+- 🎓 B.Tech Computer Science Pre Final year student at IGDTUW
 - 💻 Passionate about Software Engineering, AI and Full Stack Development
 - 🧠 Interested in Machine Learning, LLMs and AI-powered applications
 - 🌱 Currently strengthening DSA and ML
