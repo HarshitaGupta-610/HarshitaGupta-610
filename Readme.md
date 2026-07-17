@@ -4,7 +4,7 @@ B.Tech CSE @ **IGDTUW'28** | Builder | Software Engineer | AI Enthusiast | Turni
 
 ---
 
-# 🚀 about me
+# 🚀 About Me
 
 - 🎓 B.Tech Computer Science Pre Final year student at IGDTUW
 - 💻 Passionate about Software Engineering, AI and Full Stack Development
@@ -14,7 +14,7 @@ B.Tech CSE @ **IGDTUW'28** | Builder | Software Engineer | AI Enthusiast | Turni
 
 ---
 
-# 🛠 tech stack
+# 🛠 Tech Stack
 
 ### Languages
 
@@ -46,7 +46,7 @@ B.Tech CSE @ **IGDTUW'28** | Builder | Software Engineer | AI Enthusiast | Turni
 
 ---
 
-# 🌟 featured projects
+# 🌟 Featured Projects
 
 | Project | What it does | Stack |
 |----------|--------------|-------|
@@ -57,7 +57,7 @@ B.Tech CSE @ **IGDTUW'28** | Builder | Software Engineer | AI Enthusiast | Turni
 
 ---
 
-# 🏅 highlights
+# 🏅 Highlights
 
 ```
 📄 McKinsey Forward Graduate                     | Successfully completed McKinsey Forward Program
@@ -69,7 +69,7 @@ B.Tech CSE @ **IGDTUW'28** | Builder | Software Engineer | AI Enthusiast | Turni
 
 
 
-# 🌐 connect with me
+# 🌐 Connect With Me!
 
 <p align="left">
 
