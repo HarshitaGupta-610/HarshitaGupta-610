@@ -1,6 +1,6 @@
 # Hi there, I'm Harshita Gupta 👋
 
-B.Tech CSE @ **IGDTUW'28** | Builder | Software Engineer | AI Enthusiast | Turning ideas into impactful products
+B.Tech CSE @ **IGDTUW'28** | Builder | Aspiring Software Engineer | AI Enthusiast | Turning ideas into impactful products
 
 ---
 
